@@ -3,7 +3,7 @@
 
  Dual licensed under the MIT and GPL licenses.
 
- jQuery StickyScroller
+ jQuery StickySlider
  Author: Patryk Kasperski
  Version: 0.2.1
 */
